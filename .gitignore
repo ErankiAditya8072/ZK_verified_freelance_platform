@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cairo build
+katana/target/
+
+# Hardhat build
+hardhat/cache/
+hardhat/artifacts/
+
+# Env files
+.env
